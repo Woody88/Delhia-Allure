@@ -1,0 +1,58 @@
+@import '~bulma/bulma';
+@import '~bulma-extensions/extensions';
+
+
+body {
+
+}
+
+a { color: #888888; }
+
+.divider {
+    width: 1px;
+    margin: 1.1rem 0;
+    background: blue;
+}
+
+.page-frame {
+    font-family: PT sans-serif;
+}
+
+.slider {
+    height: 600px;
+    margin: 1em 0;
+}
+
+.nav-header-options {
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: #888888;
+}
+
+.navbar-extras {
+    margin-top: 1.5em;
+}
+
+.sub-nav {
+    font: 700 14px/1.572 "PT Sans",sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: #888888;
+}
+
+.product-banner {
+    font: 700 14px/1.572 "PT Sans",sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: #888888;
+    margin: 1em 0;
+}
+
+.product-banner > .tabs {
+    font-size: 1em;
+}
+
+footer {
+    margin-top: 2em;
+}
